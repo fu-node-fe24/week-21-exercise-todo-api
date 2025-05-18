@@ -50,6 +50,8 @@ Nedan finner du dokumentation för det API du skall bygga:
 
 ### Keys
 
+---
+
 **Metod:** ``GET``
 
 **URL:** ``/api/keys``
@@ -59,6 +61,10 @@ Nedan finner du dokumentation för det API du skall bygga:
 ---
 
 ### Auth
+
+Då vi ännu inte börjat leka med tokens så kan ni med fördel i er kod använda `global`-objektet för att sätta en user i er kod: ```global.user = user``. 
+
+---
 
 **Metod:** ``GET``
 
@@ -89,6 +95,8 @@ Nedan finner du dokumentation för det API du skall bygga:
 ---
 
 ### Todos
+
+---
 
 För alla nedanstående anrop krävs att man skickar med en API-nyckel som query parameter, ex. ``/api/todos?key=todo-hebdg``.
 
