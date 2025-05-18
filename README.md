@@ -1,6 +1,6 @@
 # Vecka 21 : Todo API - Veckans Code Review Uppgift
 
-Denna uppgift går ut på att bygga ett praktiskt taget komplett Todo API från grunden där vi inkorporerar allt vi gått igenom hittills i kursen. Vissa delar av förra veckans uppgift går säkert att återanvända, men jag skulle nog rekommendera att ni skapar nya projekt från grunden och eventuellt klistrar in tidigare skriven kod för att undvika problem.
+Denna uppgift går ut på att bygga ett praktiskt taget komplett Todo API från grunden där vi inkorporerar allt vi gått igenom hittills i kursen. Vissa delar av förra veckans uppgift går säkert att återanvända, men jag skulle nog rekommendera att ni skapar nya projekt från grunden och eventuellt klistrar in tidigare skriven kod då förra veckans lösning garanterat innehåller en hel del "onödig" kod nu.
 
 APIet skall byggas för en frontendapplikation där användare kan registrera sig och logga in, samt skapa egna personliga Todolistor. 
 
