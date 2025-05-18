@@ -23,10 +23,10 @@ Era nycklar skall se ut på följande sätt:
 Era users skall se ut på följande sätt:
 ```
 {
+  "_id": "68277d622b50533c2958d5d4",
   "username": "theodor",
   "password": "nyberg14",
-  "userId": "b7f6c",
-  "_id": "68277d622b50533c2958d5d4"
+  "userId": "b7f6c"
 }
 ```
 
