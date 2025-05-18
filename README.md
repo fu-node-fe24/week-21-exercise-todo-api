@@ -138,7 +138,7 @@ I samband med att ni skapar upp era modeller så definerar ni era scheman så at
 
 ## Middlewares
 
-Följande middlewares skall finnas i din lösning:
+Middlewares kan ni slänga på mot slutet, och följande skall finnas i din lösning:
 
 ### authorizeKey
 
@@ -153,8 +153,8 @@ Denna middleware säkerställer att det finns en inloggad användare för de rou
 Denna middleware fångar upp alla kastade errors och returnerar fel enligt nedanstående: 
 ```
 {
-	"message": "Unauthorized user",
-	"success": false
+  "message": "Unauthorized user",
+  "success": false
 }
 ```
 
