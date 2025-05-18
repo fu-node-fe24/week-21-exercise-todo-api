@@ -62,7 +62,7 @@ Nedan finner du dokumentation för det API du skall bygga:
 
 ### Auth
 
-Då vi ännu inte börjat leka med tokens så kan ni med fördel i er kod använda `global`-objektet för att sätta en user i er kod: ```global.user = user``. 
+Då vi ännu inte börjat leka med tokens så kan ni med fördel i er kod använda `global`-objektet för att sätta en user i er kod: ``global.user = user``. 
 
 ---
 
